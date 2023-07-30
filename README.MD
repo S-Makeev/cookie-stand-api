@@ -27,3 +27,9 @@ $`docker compose run web`
 >Superuser
 - username: admin
 - password: 1234
+
+### Requirements memo:
+currently using older version: `Django==3.2`
+and `psycopg2-binary==2.9.6`. 
+
+Using most updated versions might render compatibility issues. 
