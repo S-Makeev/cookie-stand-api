@@ -32,4 +32,5 @@ $`docker compose run web`
 currently using older version: `Django==3.2`
 and `psycopg2-binary==2.9.6`. 
 
-Using most updated versions might render compatibility issues. 
+Using most updated versions might render compatibility issues.
+/Test
